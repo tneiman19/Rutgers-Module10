@@ -1,4 +1,4 @@
-# Rutgers-Module9 (README Generator)
+# Rutgers-Module10 (SVG Generator)
 
 Provided with starter code, we were tasked with writing a terminal based application that generates an SVG file after the user answers a few questions.
 
