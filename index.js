@@ -24,7 +24,7 @@ const questions = [
     type: "rawlist",
     name: "shape",
     message: "Select a shape",
-    choices: ["Circle", "Triangle", "Square"],
+    choices: ["Triangle", "Circle", "Square"],
   },
   {
     type: "input",
